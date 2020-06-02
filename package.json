@@ -1,0 +1,15 @@
+{
+  "name": "pokedex-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.13.1",
+    "eris-collector": "^1.0.0"
+  }
+}
